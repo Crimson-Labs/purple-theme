@@ -1,6 +1,6 @@
 /**
  * @name Purple Glass Theme
- * @description A modern glass-style theme with Marin Kitagawa as a Background GIF. 
+ * @description A modern glass-style theme with a Marin Kitagawa background GIF
  * @author lostinmyowntears
  * @version 1.0.0
  * @source https://github.com/Crimson-Labs/purple-theme/blob/main/purple.theme.css
@@ -51,7 +51,7 @@ body {
 
     /* background image options */
     --background-image: on; /* off/on */
-    --background-image-url: url('https://raw.githubusercontent.com/Crimson-Labs/purple-theme/main/purple-bg.png'); /* background image url */
+    --background-image-url: url('https://raw.githubusercontent.com/Crimson-Labs/purple-theme/main/purple-bg.gif'); /* animated gif background */
 
     /* transparency/blur options */
     --transparency-tweaks: on; /* off/on */
